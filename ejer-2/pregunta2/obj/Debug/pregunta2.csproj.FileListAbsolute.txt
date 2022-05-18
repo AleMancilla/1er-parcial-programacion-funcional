@@ -1,0 +1,11 @@
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.exe.config
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.csprojResolveAssemblyReference.cache
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.Form1.resources
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.Properties.Resources.resources
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.csproj.GenerateResource.Cache
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.exe
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\bin\Debug\pregunta2.pdb
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.exe
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta2\pregunta2\obj\Debug\pregunta2.pdb
+D:\Trabajos\319\319\pregunta2\pregunta2\obj\Debug\pregunta2.exe
+D:\Trabajos\319\319\pregunta2\pregunta2\obj\Debug\pregunta2.pdb

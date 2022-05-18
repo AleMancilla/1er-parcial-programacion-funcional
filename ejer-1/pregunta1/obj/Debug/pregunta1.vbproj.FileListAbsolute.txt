@@ -1,0 +1,23 @@
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.exe.config
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.exe
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.pdb
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\bin\Debug\pregunta1.xml
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.Form1.resources
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.Resources.resources
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.GenerateResource.Cache
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.exe
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.xml
+c:\users\asus gamer\documents\visual studio 2012\Projects\pregunta1\pregunta1\obj\Debug\pregunta1.pdb
+D:\Trabajos\319\319\pregunta1\pregunta1\bin\Debug\pregunta1.exe.config
+D:\Trabajos\319\319\pregunta1\pregunta1\bin\Debug\pregunta1.exe
+D:\Trabajos\319\319\pregunta1\pregunta1\bin\Debug\pregunta1.pdb
+D:\Trabajos\319\319\pregunta1\pregunta1\bin\Debug\pregunta1.xml
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.AssemblyReference.cache
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.SuggestedBindingRedirects.cache
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.Form1.resources
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.Resources.resources
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.GenerateResource.cache
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.vbproj.CoreCompileInputs.cache
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.exe
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.xml
+D:\Trabajos\319\319\pregunta1\pregunta1\obj\Debug\pregunta1.pdb
